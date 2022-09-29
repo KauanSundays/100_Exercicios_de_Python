@@ -1,2 +1,2 @@
 # exercicios
- Exercicios de Python
+Aqui irei postar 100 exercicios em Linguagem Python
