@@ -7,3 +7,5 @@ print('Para pagar uma casa de R${:.2f} em {} anos'.format(casa, anos), end='')
 print('A prestação será de R${:.2f}.format(prestação)')
 
 print('COMPRANDO tem que pagar {} e o {}'.format(prestacao, minimo))
+
+#CONTINUE
