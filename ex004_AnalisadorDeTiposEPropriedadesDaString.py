@@ -6,4 +6,4 @@ print('É alfabetico?', a.isalpha())
 print('É alfanumerico?', a.isalnum())
 print('Está em maisculas?', a.isupper())
 print('Esta em minusculas?', a.islower())
-print('Está capitalizada?', a.istitle())
+print('Está capitalizada?', a.istitle()) # Primeira letra maiscula e as outras minusculas
